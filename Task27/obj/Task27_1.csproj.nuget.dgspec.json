@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27/Task27.csproj": {}
+    "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27_1/Task27_1.csproj": {}
   },
   "projects": {
-    "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27/Task27.csproj": {
+    "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27_1/Task27_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27/Task27.csproj",
-        "projectName": "Task27",
-        "projectPath": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27/Task27.csproj",
+        "projectUniqueName": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27_1/Task27_1.csproj",
+        "projectName": "Task27_1",
+        "projectPath": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27_1/Task27_1.csproj",
         "packagesPath": "/Users/mandis/.nuget/packages/",
-        "outputPath": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27/obj/",
+        "outputPath": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mandis/.nuget/NuGet/NuGet.Config"
