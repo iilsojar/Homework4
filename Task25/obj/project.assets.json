@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task25/Task25.csproj",
-      "projectName": "Task25",
-      "projectPath": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task25/Task25.csproj",
+      "projectUniqueName": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27/Task27.csproj",
+      "projectName": "Task27",
+      "projectPath": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27/Task27.csproj",
       "packagesPath": "/Users/mandis/.nuget/packages/",
-      "outputPath": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task25/obj/",
+      "outputPath": "/Users/mandis/Desktop/учеба/СиШарп/HomeWork4_1/Task27/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mandis/.nuget/NuGet/NuGet.Config"
